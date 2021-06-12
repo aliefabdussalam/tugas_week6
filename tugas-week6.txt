@@ -1,0 +1,28 @@
+Algoritma Palindrom
+    1. mulai
+    2. input Teks
+    3. jadikan teks urutan angka
+    4. proses pengecekan urutan angka dan dari jumlah keseluruhan di kurangi 1
+    5. proses pengecekan angka apakah lebih dari sama dengan 0
+    6. jika salah maka ke nomor 13
+    7. jika benar ke nomor 9
+    8. pengulangan nomor 5
+    9. output
+    10. jika output selesai dan hasil sama dengan input teks
+    11. maka true Palindrom
+    12. jika false maka ke nomor 12
+    13. selesai.
+
+
+Algoritma Reverse Words
+    1. mulai
+    2. input kalimat
+    3. jadikan perkata dalam kalimat urutan angka
+    4. proses pengecekan urutan angka dan dari jumlah keseluruhan di kurangi 1
+    5. proses pengecekan angka apakah lebih dari sama dengan 0
+    6. jika salah maka ke nomor 10
+    7. jika benar ke nomor 9
+    8. nomor urut dikurangi 1 
+    8. pengulangan nomor 5
+    9. output
+    10. selesai
